@@ -1,0 +1,40 @@
+{
+  "experience": [
+    {
+      "id": "1",
+      "type": "work",
+      "title": "Full-Stack Developer",
+      "organization": "Tech Solutions Co.",
+      "period": "2024 - Present",
+      "description": "Building scalable web applications using React, Node.js, and cloud services. Leading frontend architecture decisions and mentoring junior developers.",
+      "highlights": ["Led migration to Next.js", "Improved performance by 40%", "Built CI/CD pipeline"]
+    },
+    {
+      "id": "2",
+      "type": "work",
+      "title": "Frontend Developer",
+      "organization": "Digital Agency",
+      "period": "2023 - 2024",
+      "description": "Developed responsive web applications and interactive user interfaces for various clients across different industries.",
+      "highlights": ["Delivered 15+ client projects", "Implemented design system", "React & Angular expertise"]
+    },
+    {
+      "id": "3",
+      "type": "work",
+      "title": "Junior Web Developer",
+      "organization": "StartupHub",
+      "period": "2022 - 2023",
+      "description": "Started my professional journey building web features, fixing bugs, and learning modern development practices in a fast-paced environment.",
+      "highlights": ["Built REST APIs", "Learned agile methodology", "Contributed to open source"]
+    },
+    {
+      "id": "4",
+      "type": "education",
+      "title": "Bachelor of Computer Science",
+      "organization": "Cairo University",
+      "period": "2019 - 2023",
+      "description": "Studied core computer science fundamentals including algorithms, data structures, software engineering, and web development.",
+      "highlights": ["GPA: 3.5/4.0", "Dean's List", "Senior project: AI-powered web app"]
+    }
+  ]
+}

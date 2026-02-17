@@ -1,0 +1,10 @@
+{
+  "email": "yousefamr@example.com",
+  "location": "Cairo, Egypt",
+  "availability": "Open to opportunities",
+  "contactMethods": [
+    { "icon": "📧", "label": "Email", "value": "yousefamr@example.com", "href": "mailto:yousefamr@example.com" },
+    { "icon": "📍", "label": "Location", "value": "Cairo, Egypt", "href": "#" },
+    { "icon": "💼", "label": "LinkedIn", "value": "linkedin.com/in/yousefamr", "href": "https://linkedin.com/in/yousefamr" }
+  ]
+}

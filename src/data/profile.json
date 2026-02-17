@@ -1,0 +1,22 @@
+{
+  "name": "Yousef Amr",
+  "title": "Full-Stack Developer",
+  "tagline": "Crafting digital experiences with clean code & creative design",
+  "bio": "I'm a passionate Full-Stack Developer who loves building beautiful, performant web applications. With a strong foundation in modern JavaScript frameworks and a keen eye for design, I transform ideas into elegant digital solutions that users love.",
+  "avatar": "/avatar.png",
+  "resumeUrl": "/resume.pdf",
+  "location": "Cairo, Egypt",
+  "email": "yousefamr@example.com",
+  "availableForWork": true,
+  "socials": [
+    { "platform": "github", "url": "https://github.com/Yousef0amr", "label": "GitHub" },
+    { "platform": "linkedin", "url": "https://linkedin.com/in/yousefamr", "label": "LinkedIn" },
+    { "platform": "twitter", "url": "https://twitter.com/yousefamr", "label": "Twitter" }
+  ],
+  "stats": [
+    { "label": "Years Experience", "value": "3+" },
+    { "label": "Projects Completed", "value": "20+" },
+    { "label": "Technologies", "value": "15+" },
+    { "label": "Happy Clients", "value": "10+" }
+  ]
+}

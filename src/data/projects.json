@@ -1,0 +1,76 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "E-Commerce Platform",
+      "description": "A full-featured online shopping platform with real-time inventory, secure payments, and an admin dashboard for managing products and orders.",
+      "image": "/projects/ecommerce.png",
+      "tags": ["React", "Node.js", "MongoDB", "Stripe"],
+      "category": "fullstack",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/Yousef0amr/ecommerce",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "Task Management App",
+      "description": "A collaborative project management tool with drag-and-drop boards, real-time updates, and team workspace features.",
+      "image": "/projects/taskapp.png",
+      "tags": ["Next.js", "TypeScript", "Prisma", "PostgreSQL"],
+      "category": "fullstack",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/Yousef0amr/taskapp",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "AI Image Generator",
+      "description": "An AI-powered web app that generates stunning images from text prompts using advanced machine learning models.",
+      "image": "/projects/aigen.png",
+      "tags": ["React", "Python", "FastAPI", "OpenAI"],
+      "category": "ai",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/Yousef0amr/ai-image-gen",
+      "featured": false
+    },
+    {
+      "id": "4",
+      "title": "Real-Time Chat Application",
+      "description": "A sleek messaging platform with real-time communication, file sharing, and group chat functionality.",
+      "image": "/projects/chatapp.png",
+      "tags": ["React", "Socket.io", "Express", "Redis"],
+      "category": "fullstack",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/Yousef0amr/chat-app",
+      "featured": false
+    },
+    {
+      "id": "5",
+      "title": "Portfolio Dashboard",
+      "description": "An interactive analytics dashboard with dynamic charts, data visualization, and responsive design for tracking portfolio metrics.",
+      "image": "/projects/dashboard.png",
+      "tags": ["Angular", "TypeScript", "D3.js", "Firebase"],
+      "category": "frontend",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/Yousef0amr/dashboard",
+      "featured": true
+    },
+    {
+      "id": "6",
+      "title": "Weather Forecast App",
+      "description": "A beautiful weather application with location-based forecasts, animated weather icons, and 7-day predictions.",
+      "image": "/projects/weather.png",
+      "tags": ["React", "API Integration", "CSS Animations"],
+      "category": "frontend",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/Yousef0amr/weather-app",
+      "featured": false
+    }
+  ],
+  "categories": [
+    { "id": "all", "label": "All Projects" },
+    { "id": "fullstack", "label": "Full Stack" },
+    { "id": "frontend", "label": "Frontend" },
+    { "id": "ai", "label": "AI / ML" }
+  ]
+}

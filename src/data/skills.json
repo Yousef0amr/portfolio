@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "title": "Frontend",
+      "icon": "🎨",
+      "skills": [
+        { "name": "React", "level": 90 },
+        { "name": "Next.js", "level": 85 },
+        { "name": "TypeScript", "level": 88 },
+        { "name": "Angular", "level": 80 },
+        { "name": "HTML/CSS", "level": 95 },
+        { "name": "Tailwind CSS", "level": 85 }
+      ]
+    },
+    {
+      "title": "Backend",
+      "icon": "⚙️",
+      "skills": [
+        { "name": "Node.js", "level": 85 },
+        { "name": "Express", "level": 82 },
+        { "name": "Python", "level": 75 },
+        { "name": "REST APIs", "level": 90 },
+        { "name": "GraphQL", "level": 70 },
+        { "name": "PostgreSQL", "level": 78 }
+      ]
+    },
+    {
+      "title": "Tools & DevOps",
+      "icon": "🛠️",
+      "skills": [
+        { "name": "Git", "level": 92 },
+        { "name": "Docker", "level": 70 },
+        { "name": "CI/CD", "level": 68 },
+        { "name": "Firebase", "level": 75 },
+        { "name": "MongoDB", "level": 80 },
+        { "name": "Figma", "level": 72 }
+      ]
+    }
+  ]
+}
